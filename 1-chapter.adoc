@@ -1,0 +1,335 @@
+= THEORY
+
+== UNIT – I
+
+== TECHNICAL TERMS
+
+=== 1.0 OBJECTIVE
+
+This unit gives the essential knowledge of the fundamental technical terms which are most commonly used in the field of music.
+
+=== 1.1 INTRODUCTION
+Music is an integral part of India’s culture.It is styled as the Gandharva Veda. It is one of the four upa Vedas (Secondary Vedas) the other three upavedas being Dhanurveda (Archery), Ayurveda (Medicine) and Artha sastra (politics).
+God is conceived of as Nadabrahma-Embodiment of (Music) sound. God can be realized in diverse ways. But Sangita marga or path of Music is perhaps the pleasant way to reach him.
+India is the home of the raga system.
+
+Its Music is the finest example of a true melodic system of Music. There can possibly be only two systems of Music one in which Music progress by successions of groups of notes, called chords.
+The system of Music that prevails at the present day is Desi Sangita.
+
+This Desi sangita is of two kinds - Hindusthani and karnatic. The term Karnatic is used in the dual sence of (1) old and (2) the Southern part of the Indian Peninsula. The desi Sangita has certainly assimilated the good traits of the Marga sangita.
+
+:icons: font
+[TIP]
+====
+The Indian Music has two types of music
+
+1. Carnatic Music
+2. Hindustani Music
+====
+
+=== 1.2 TECHNICAL TERMS
+Technical terms are those terms which are often used in music. Each term has a definite definition and here each definition is given in detail.
+
+=== 1.2.1 SANGITAM
+
+:icons: font
+[NOTE]
+====
+        Gītam vādyam tathā nrityam trayam saṅgīta muchyate
+====
+It is music. It is one of the Fine Arts It is one of the Performing Arts.
+
+It give melody and pleasant feelings to the ears. It is called as Sangeetham. Ancient writers hold the view that vocal music, instrumental music and dance together constituted sangeetham. Later, dance was separated from the first two
+
+=== 1.2.2 SRUTI
+
+:icons: font
+[NOTE]
+====
+    Śrūyantah iti śrutah
+====
+The sound which is audible to the ear is the smallest audible sound. The sounds which can be distinctly heard are quarter- tone, microtone, enharmonic note or interval.
+Key note or adhara shadja.
+
+=== 1.2.3 SVARA
+
+:icons: font
+[NOTE]
+====
+    Svaratō rañjayati śrōtru cittam susvaramuchyate
+====
+
+That which is able to please of its own accord is svara.
+
+=== 1.2.4 SAPTASVARAS
+The basis of all systems of Music is the seven notes or Svaras. Just as there are the seven days of the week and the seven colours of the rainbow, there are the sapta Svaras. The following table indicates Indian and western nomenclature.
+
+[%header,format=csv]
+|===
+S. No,Svara Name, Solfa letters,Indian, Western
+1, Shadja, C, Sa, Doh
+2, Rishabha, D, Ri, Rey
+3, Gandhara, E, Ga, Me
+4, Madhyama, F, Ma, Fa
+5, Panchama, G, Pa, Soh
+6, Dhaivata, A, Da, La
+7, Nishada, B, Ni, Ti
+|===
+
+They are found in the second century B.C in Narada’s Parivrajaka Upanishad.
+The first note is named as Shadja which gives birth to other six Svaras.
+The other six Svaras derive their positions only in relation to Shadja.
+
+It will be noticed that the syllables sa ri ga ma pa dha ni are only the initial syllables of the full names of the seven Svaras, with the exception only of the first note, where sa and not sha is used.
+In the case of the sixth note, it is usual to pronounce it only da while singing and not dha since the former is more euphonious. Of the seven Svaras, the notes sa and pa do not admit of varieties.
+
+The naming of the notes rishabha, gandhara, dhaivata and nishada is associated with the crying of the animals and chirping of the birds.
+The voice of the Peacock with Shadja, bull with Rishabha, the bleat of the goat with gandhara, the cry by heron to madhyama, the sound by Kokila to panchama the neigh of the horse to dhaivata, the yelling of the Elephant to Nishada.
+
+=== 1.2.5 SVARASTHANAS
+
+The remaining five Svaras: ri ga ma dha ni admit of two varieties each. The terms, komal and Tivra are used to describe these two varieties. Komal svara is the lower note and the Tivra Svara the higher note. The tivra svara is produced on the higher svarasthana and the komal svara on the next lower svarasthana. The technical names of these 12 notes together with their corresponding equivalents in western music are below.
+Suddha Svaras and vikrita Svaras
+
+[%header,format=csv]
+|===
+S. No, Svara, name, Equivalents in western music
+1, Shadja, sa, C
+2, Suddha Rishabha, Komal ri, D flat
+3, Chatusruti Rishabha, Tivra Rishabha, D
+4, Sadharana Gandhara, Komal Gandhara, E flat
+5, Antara Gandhara, Tivra Ga, E
+6, Suddha Madhyama, Komal Ma, F
+7, Prati Madhyama, Tivra Ma, F sharp
+8, Panchama, Pa, G
+9, Suddha Dhaivata, Komal Dha ,A flat
+10, Chatusruti Dhaivata, Tivra Dhaivata, A
+11 ,Kaisiki Nishada, Komal Ni, B flat
+12, Kakali Nishada, Tivra Nishada, B
+|===
+
+The note sa and pa which do not admit of varieties are called achala svara or fixed notes. Referred to as prakriti svaras, have the prefix sudha. The vikruta svars have prefix like chatusruti, shatsruti, sadharana, antara etc., The term suddha svara in modern South Indian Music to the lowest pitched or the earliest variety of each in the ascending scale, Thus of the three vqarieties of rishabha: Sudha, chatussruti and shatsruti, suddha rishabha is the lowest in pitch; likewise, of the three varieties of gandhara: Suddha, Sadharana and antara, sudha gandhara is the lowest in pitch and so on.
+
+=== 1.2.6 AROHANA
+Every raga is a combination of Svaras progressing upwards and downwards providing the scale format of the raga taken for improvisation .A series of notes in the ascending order of pitch s r g m p d n s is Arohana it is the recognized order or krama in which the notes ascend in a raga.
+
+=== 1.2.7 AVAROHANA
+It is a series of notes in the descending order of pitch s n d p m g r s.
+Both Arohana and Avarohana gives the format of raga in most of the cases.
+
+=== 1.2.8 STHAYI
+It is the range of the voice or instrument. A series of seven svaras beginning from sa and ending with ni. This can also be known as saptaka, sthana, voice register or octave. There are five sthayis used in Indian music.
+
+[%header,format=csv]
+|===
+S. No, Name of the sthayi, Range, From –to
+1, Anumandra, Anumandra sthayi, shadja to anumandra sthayi nishada S ——N
+2., Mandra, mandra sthayi ,shadja to mandra sthayi nishada S ——N
+3., Madhya, Madhya sthayi, shadja to Madhya sthayi nishada S ——N
+4., Tara, Tara sthayi, shadja to Tara sthayi Nishada S ——N
+5., Ati tara, Ati tara sthayi, shadja to Ati tara sthayi Nishada S ——N
+|===
+
+=== 1.2.9 DHATU
+The Svara part of the composition is known as Dhatu.
+
+Ex; m p | d s s r||
+
+=== 1.2.10 MATU
+The sahitya or the text part of the composition is known as Matu
+Ex: Sri .| gana nadha||
+
+=== 1.2.11 AVARTA
+
+A complete tala or time measure
+It is the completion of the angas of the concerned tala
+different talas have different angas and aksharakalas
+In any tala the completion of one round of angas is known as avarta
+
+=== 1.2.12 TRIKALA
+Kala refers to the speed of the musical piece. There are Three Kalas
+
+1. Prathama Kala
+First degree of speed. One note is sung in one Akshara Kala. For every anga in a tala one akshara kala is sung. (akshara kala is the fixed number units of measurement in a tala)
+2. Dwitiya Kala
+Second degree of speed, twice faster than Prathama kala. Two notes are sung in one Akshara Kala. For every anga in a tala two akshara kalas are sung.
+3. Tritiya Kala
+Third degree of speed, twice faster than Dwitiya Kala. Four notes are sung for every anga in one Akshara Kala.
+
+=== 1.2.13 TALA
+
+:icons: font
+[NOTE]
+====
+    Takārah śaṅkarah prōkta
+    Lakārah śaktiruchyate
+    Śivaśakti samyōgattāla ityabhidīyate
+====
+
+Takara is the bijakshara of shiva and lakara is of Shakti.
+
+The communion of shiva and Shakti gives rise to Tala. Tandava is the cosmic dance of Shiva, the masculine dancing, while lasya indicates the famine dancing of Goddess Parvati. The first letters of tandava and Lasya gives rise to Tala the binding factor of Nritya and nritta.
+
+:icons: font
+[NOTE]
+====
+    Hastadvayasya samyōge viyōge capi vartate
+    Vyatimān yo daśa prānih sakala tāla sañjakah
+====
+
+The process of unison and separation of the two hands in coordination with the ten elements of musical time constitutes the Tala. Tala is the time binding factor in music. There are numerous talas in music like ragas. Every tala is reckoned with definite angas in a tala.
+
+=== 1.2.14 SHADANGAS
+
+The six angas or modes of reckoning musical time. They are known as Shadangas or six angas.
+Each anga has definite akshara kalas with which it is reckoned
+
+[%header,format=csv]
+|===
+S. No., Name of the Anga, Sign ,Number of Aksharas
+1, Laghu, I, 3/4/5/7/9
+2, Drutham, O, 2
+3, Anudrutam, U, 1
+4, Guru, 8, 8
+5, Plutam, I8, 12
+6, Kakapadam, +, 16
+|===
+
+
+Of the Talangas, only 3 are widely in use. They are called Principle Talangas.
+Here is the list of Principle Thalangas along with their way of counting
+
+
+1. Anudrutam (U) – One Beat of the Palm on the lap
+2. Drutam (O) – One beat + one wave (usi/visarjitam)
+3. Laghu (I) – One beat + Count of the fingers
+
+
+=== 1.2.15 SAPTA TALAS
+There are seven principle Talas. they are called Suladi Sapta Talas
+They were called so as they first employed in a particular type of composition known as Suladi
+
+[%header,format=csv]
+|===
+S. No., Name of the Tala, Sign, Akshara Kala
+1, Dhruva Tala, IOII, 14
+2, Matya Tala, IOI, 10
+3, Rupaka Tala, OI, 6
+4, Jhampe Tala, I7UO, 10
+5, Triputa Tala, I3OO, 7
+6, Ata Tala, I5I5OO, 14
+7, Eka Tala, I, 4
+|===
+
+===  1.2.16 JATI
+Of the Shadangas, only laghu has variations in number of kriyas. There are 5 Jati bedhs for Laghu in a tala.
+
+1. Trisra Jati - 3 Kriyas
+2. Chaturasra Jati - 4 Kriyas
+3. Kanda Jati - 5 Kriyas
+4. Misra Jati - 7 Kriyas
+5. Sankeerna Jati - 9 Kriyas
+
+=== 1.2.17 TAURYATRIKAM
+
+Vocal Music, Instrumental Music and Dance, all the three combined together is known as Thouryathrikam.
+:icons: font
+[NOTE]
+====
+    Gītam vādyam tathā nrityam saṅgītamuchyate
+====
+
+
+=== 1.2.18 NADA
+it is music, musical sound
+it is of two types.Ahata nada and Anahata nada.
+Ahata nada (means struck) is the music made by the effort of man.
+
+Anahata nada (means unstruck) is the music of nature which is practised by rushis.
+Ahata and Anahata Nada is Musical sound. The whole subjects of Music relates to nada. Nada gives rise to srutis, and these give rise to Svaras and these to ragas. Anahata Nada is the Music of the spheres (Natures Fa) the Music of nature. It also includes the nada emanating from the Moladhara part of the human body.
+This is audible only to yogis. Thyagaraja, the great nada yogi or recent times refers to the greatness of the “muladharaja nada” in the first charana of his song svara raga sudharasa (Sankarabharana raga).
+
+Ahata Nada is classified into:
+
+[%header,format=csv]
+|===
+S. No., Name, Source of Production
+a, Sariraja, Emanating from the human voice
+b, Nakhaja, Emanating from plucked instruments
+c, Dhanurja, Emanating from from bowed instruments
+d, Vayuja, Emanating from wind instruments
+e, Charmaja, Emanating from skin covered instruments (drums)
+f, Lohaja, Emanating from metallic instruments (cymbals)
+
+|===
+
+Nada is also classified under five heads.
+
+Ahata Nada is classified into:
+
+[%header,format=csv]
+|===
+S. No., Name, Source of Production
+1, Atisukshma, This is very minute and originates from the navel
+2, Sukshma, This is minute and originates in the chest
+3, Apushta, (suppressed) This aruses in the head
+4, Pushta, This arises in the throat
+5, Kritrima, Artificial in nature, originates in the mouth
+
+|===
+
+=== 1.2.19 MURCHANA
+Arohana and Avarohana together, is called Moorchana
+
+It denotes the order of Svaras used in a raga.
+It may be of sampoorna , vakra or varja type
+
+=== 1.2.20 RAGA
+
+Raga is a combination of Svara patterns in melody which has a definite formation
+It is an aesthetic entity and has a tonal personality which can be recognised by a trained ear
+It is an important element in Manodharma sangita
+This consists of free improvisation without the rhythmic accompaniment
+
+=== 1.2.21 ABHYASAGANA
+It is practice music and meant for initial training of a student. Therefore they are intended for practice or to acquire the necessary technical skills to perform in front of an audience.
+There are several forms to go through in the Abhyasa Gana:
+
+1.Sarali Varusalu- Scales and different combination of the notes to get to learn the Raga
+
+2.Janta Svaralu- Scales and different combination of the notes, but in doubles for voice training and to learn different fingering techniques.
+
+3.Dhatu varusalu - Notes go back and forth to teach the Svarasthanas or placement of the notes.
+
+4.Upper sthayi varusalu - Teaching the next or higher octave
+
+5.Alankaras - To get to learn the basic seven talas with different angas
+
+=== 1.2.22 SABHAGANA
+The music that is performed in front of an audience is called Sabha gana (the word Sabha literally means audience).
+A wide range of musical forms are performed in concert music.
+
+=== 1.2.23 VAGGEYAKARA
+one who composes the dhatu and Matu part of a composition
+he writes the lyrics and set them to music by himself
+Example.Tyagraja, Muttuswamy Dikshitulu, Shyama Sastry etc. 
+
+=== 1.3 SELF-ASSESSMENT QUESTIONS
+
+1. Write short notes on technical terms in music.
+2. What is Abhyasa gana?
+3. Define Svara? Name sapta Svaras.
+4. Define Nada and explain the various classification
+5. Name Sapta talas.
+Short notes
+1. Define Nada?
+2. What is sruti?
+3. Name sapta Svaras?
+4. Who is a vaggaeyakara?
+5. Write any two talas with angas?
+Fill in the blanks
+1. The Indian name of Ri is ______________
+2. A variety of Nada is ______________
+3.	______________ is a variety of Nada classification
+4. Arohana and Avarohana together is called as ______________
+5. There are ______________ laghu jatis

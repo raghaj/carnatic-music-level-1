@@ -1,0 +1,106 @@
+= UNIT – II
+
+== RACHANA LAKSHANAS
+
+=== 2.0 OBJECTIVES
+
+ This Unit deals with the characteristics of rachanas (forms).
+ Characters of Gita, varieties of gita and Svarapallavi are dealt with in this unit.
+ The definition (lakshanas) of the forms learnt in practical is discussed in this unit.
+2.1 CHARACTERISTICS OF A GITA:
+ Gitas are the simplest of melodies. The term gita literally means a ‘song’ but in music it signifies a particular type of composition.
+ The music of the gita is a simple melodic extension of the raga in which it is composed.
+ Its tempo is uniform.
+ It is a continuous composition without the sections, pallavi, anupallavi and charana. The gita is sung without repetition from beginning to end.
+ Some gitas have two sections (khandikas) and some three. Some gitas are concluded by repeating a portion of the opening part.
+ Gitas are set in medium tempo.
+ There are no sangatis or variations and the flow of music is natural. Neither intricate combinations nor terse sancharas are found in its music. The raga svarupa is well brought out in each case.
+ For each note of the dhatu, there is usually a syllable in the sahitya.
+ The theme of the sahitya is praise of God. (Gitas in praise of musical luminaries and Acharyas also exist: for Ex: the sapta tala gita in Nata raga beginning with the words: Gana vidya dhurandhara in praise of Venkatasubbayya, by Paidala Gurumurti Sastri).
+ Sometimes meaningless phrases like a iya, ti iya, a iyam, va iya, called matrika padas are found interspersed in it. These quaint syllables called gitalankara phrases lend a characteristic beauty to the sahitya of gitas. They are introduced or ornamentation only. These syllables remind one of similar syllables, occurring in Sama ganam.
+ There are instances of famous Sanskrit slokas which have been cleverly introduced as sahityas for sanchari gitas. The gita in Bhairavi raga, Sri Ramachandra and the gita in Nata raga Amari kabari are well known examples.
+ Language generally found in gitas is Sanskrit, bhandira and kannada.
+ Formerly Sanskrit was used for the sahitya of musical compositions. Later on bhandira (a kind of Prakrit) was used. Still later, compositions came to be written extensively in the vernaculars and the bhandira bhasha fell into disuse.
+ According to Visvesvara (alias Vagisa) who has written students learn the gitas after a course in the preliminary svara exercises and alankaras. There are gitas in all the sapta talas and their varieties. In the pre-Tyagaraja period, many composers delighted in composing gitas.
+
+=== 2.2. VARIETIES OF GITAS
+There are two main varieties in gitas
+1) Samanya gita (Lakshya Gita)
+2) Lakshana gita
+
+=== 2.2.1 SAMANYA GITA
+ Samanya gita is the ordinary gita and is also called by other names as Sadharana gita, Lakshya gita and sanchari gita.
+ In a gita, the number of svaras present in an avarta is equal to the number of aksharakalas forming the avarta- the dirgha svara being reckoned as two svaras. This being so, a gita in chaturasra jati dhruva tala should not be reckoned in the tisra triputa tala, reckoning two svaras for each count; and likewise a gita in chaturasra jati rupaka tala should not be reckoned in the tisra jati eka tala, with two svaras for each count and so on. This will not be in keeping with the rhythmical construction of the composition.
+ Gitas are compositions in Ati chitra tama marga. They are in Ekakashara kalam, i.e. with one svara for each count. 
+
+Ganakrama – Order of Singing a Geetha
+Geethas are sung from the beginning to the end without repeating the avarthas. If a geetha consists of two sections (Kandikas) as in Kalyani “KamalaJaadala”, the second section is sung after the first.
+There are different categories of Sadharana Geetha
+1. Pillari Gita
+Geethas written in praise of God like Vignesvara, Mahesara, Mahavishnu etc are called Pillari Geetha.
+Ex: Sri Gananadha in Malahari Ragam, Rupaka Talam.
+2. Ghana Raga Gita
+Geethas written in Gana Ragas like Nata, Gowla, Arabi, Sri Ragam, Varaali are called Gana Raga Geethas.
+Ex: Re Re Sri Rama in Arabi Ragam, Triputa Talam
+3. Rakthi Raga Gita
+Geethas set to Rakthi ragas like Mohana and Kalyani are called Rakthi Raga Geethas.
+Ex: Vara Veena in Mohana Ragam, Rupaka Thalam.
+4. Ragamalika Gita
+In a same geetha, if more than one raga is used, It’s called Ragamalika Geetha. This type of Geethas is not in use today.
+Notable composers who wrote Geethas are
+• Purandara Dasa
+• Paidala Gurumurthy Sastry
+• Govindhacharya
+• Venkata Makhi
+
+=== 2.2.2 LAKSHANA GITA (OR) RAGANGA RAGA LAKSHANA GITA
+ The points of distinction between an ordinary gita and a lakshana gita have already been referred.
+ These gitas generally consist of three sections or khandas: sutra khanda, upanga khanda and bhashanga khanda. In the sutra khanda, the initial syllables of the sahityas of the avartas give the clue to the kinds of svaras taken by the mela.
+ For example, the initial syllables of the first section of the lakshana gita in Mayamalavagaula raga are: ra gu ma pa dha nu. From this, one is able to infer that the suddha rishabha, antara gandhara, suddha madhyama, suddha dhaivata, and kakali nishada, (besides sa and pa) are the notes taken by this raga. Further, the phrase Agni-go chakra given the clue to the fact that it is the 3rd raga in the Agni or the III chakra and its serial number is therefore 15. The next two sections of the gita respectively give the list of upanga ragas and bhashanga ragas derived from this melakarta. This codified list of ragas is of great use in determining the history of ragas. Some ragas figuring in the upanga list have since become bhashanga. Again, a few ragas mentioned in these gitas are not now current. Hence the historical value of these raganga raga lakshana gitas. Lakshana gitas pertaining to those raganga ragas, which do not claim an appreciable number of janya rags, do not have these three sections. Their musical structure is after the model of the ordinary gita. The mnemonics for the suddha-vikrta svaras as also the mela mnemonics however figure therein.
+ Since ragas not mentioned in the Chaturdandi prakasika figure in these raganga raga lakshana gitas, it is certain that
+these gitas are the compositions of a later composer and not those of Venkatamakhi.
+ The fact that in these raganga raga lakshana gitas, there are only the upanga and bhashanga khandas and not a separate section for kriyanga ragas is proof of the fact that the concept of kriyanga ragas as a separate class became obsolete long ago. All the kriyanga ragas of the earlier period were rediscovered in the later Raganga, Upanga or Bhashanga ragas.
+ There are lakshana gitas for all the current 72 mela ragas (Kanakangi- Ratnangi series) and these are printed in the Ganendu sekharam of Tachchur Singaracharlu and in the Sangraha chudamani of Govindacharya.
+Some of the prominent composers of lakshana gitas
+ Govinda Dikshitar
+ Venkatamakhi
+ Paidala Gurumurti Sastri
+ Govindacharya (the author of Sangraha chudamani).
+
+===  2.3 SVARA PALLAVI OR JATI SVARAM
+A Svara Pallavi (also known as Jathi Svaram) is a kind of composition which has only the Dhathu part (Svaras) with no Sahitya. There are learnt after learning Geethas and before Varanas. These are scholarly compositions and their Dhathu has the Raga Bhavam.
+ It’s purely a dance form
+ Usually Svara Pallavis are set to Madhyama Kalam (Medium Tempo) and set to Adi or Chapu Talas. Ex.Vasanta
+ It consists of pallavi ,Anupallavi and Charanas
+ Svara pallavis usually have 4 to 8 charanams
+ In some jatiSvarams the charanas consists of half avarta of Svaras and half avarta of jatis
+ In some charanams Mrudanga Jatis are heard, hence the name “Jathi Svaram”.
+ There are jatiSvarams where the Pallavi and Anupallavi are sung in jatis,the charanas are a mixture of Svaras and jatis Ex. Tari Jumtaka in Athana raga and Adi Tala
+ Compositional structure of a Svara Pallavi is same as that of
+Svara jati.
+ The only difference is, a Svarajati has the Matu part (Sahityam) too where Svarapallavi lacks the Sahitya part.
+ Ragamalika Jatisvara also exist. Swathitirunal has composed this type.
+Ganakrama (Order of Singing) of a Svara Pallavi
+First Pallavi is sung. Then Charanas are sung. At the end of each
+Charanam, pallavi is sung again. So the order of singing is like this +
+
+Pallavi
+Charanam 1 – Pallavi
+Charanam 2 – Pallavi
+
+Notable composers who wrote Svara Pallavis include
+• Ponnaiah
+• Sivanandam
+• Vadivelu
+• Swathi Thirunal • Veena Krishnamachari
+
+=== 2.4 SELF ASSESSMENT QUESTIONS:
+Write short notes on
+1. Lakshanas of Samanya gita
+2. Classification of gitas
+3. Svarajati lakshanas
+
+Essay Questions
+
+1. Write an essay on gita
+2. Explain the characteristics of Svarapallavi

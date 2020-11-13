@@ -1,0 +1,58 @@
+https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#images
+
+= Document Title (Level 0)
+
+== Level 1 Section Title
+
+=== Level 2 Section Title
+
+==== Level 3 Section Title
+
+===== Level 4 Section Title
+
+====== Level 5 Section Title
+
+== Another Level 1 Section Title
+
+first term:: definition of first term
+second term:: definition of second term
+
+= Reference Documentation (Attaching documents)
+Lead Developer
+
+This is documentation for project X.
+
+include::basics.adoc[]
+
+include::installation.adoc[]
+
+include::example.adoc[]
+
+[NOTE]
+An admonition paragraph draws the reader's attention to
+auxiliary information.
+Its purpose is determined by the label
+at the beginning of the paragraph.
+
+Here are the other built-in admonition types:
+
+TIP: Pro tip…
+
+IMPORTANT: Don't forget…
+
+WARNING: Watch out for…
+
+CAUTION: Ensure that…
+
+'''
+
+= [NOTE]
+
+An admonition block may contain complex content.
+
+.A list
+- one
+- two
+- three
+
+= Another paragraph.
