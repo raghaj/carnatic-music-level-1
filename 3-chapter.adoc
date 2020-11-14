@@ -1,4 +1,10 @@
-= UNIT - III 
+:linkcss:
+:imagesdir: ./images
+:stylesdir: stylesheets/
+:stylesheet:  colony.css
+:data-uri:
+
+= UNIT - III
 
 == LIFE HISTORY AND CONTRIBUTION OF COMPOSERS
 
@@ -10,8 +16,11 @@ This unit totally gives the life history of composers with their contribution to
 
 Paidala Gurumurti Sastri flourished as an eminent composer of gitas in the post Venkatamakhi period. They rank next to those of Purandara Dasa in popularity. He was a lakshyalakshana Vidwan and was referred to as “Veyigitala Paidaala Gurumurti”, i.e. one who composed thousand gitas, and ‘naluvadi vela ragala’, i.e. one who has knowledge of 40,000 ragas. Gurumurti Sastri had commendable scholarship in the Sastras and was acknowledged as one of the renowned Vaggeyakaras of his times. Further, he refers to himself as “ghana naya desya samsthapanacharya” (one who systematised the Ghana naya and desya margas) “Sastrajna” (master of the science of music), “raga bheda dhurina”, (highly proficient in the science of raga and its varieties) and “gita sastra parina”.
 The composer, a Mulkinadu Telugu Brahmin, was born in Kayathar, a village in Tirunelveli district, and his house name (intiperu) was Paidaala, to which he refers in two of his gitas in Nata and Arabhi ragas” Paidaalaanvayaanka Gurumurti Saastrajnavirachitamimam” and “Paidaala vamsa jati gita sastra parina Gurumurti”.
+
 Further biographical details of the composer are not available. He was a younger contemporary of Ramaswami Dikshtar. Even when he was quite young, he went to Madras, where he stayed for a number years and was specially honoured by Manali Chinnaya Mudaliar. His extraordinary talents won for him recognition at the hands of Tulaja Maharaja of Tanjore (1765-1787) who presented him with a palanquin.
 Gurumurti Sastri was a prolific composer. He composed lakshana gitas to illustrate the characteristic feature of the form of janaka and janya ragas, giving the varja, vakra svaras, graha, nyasa and amsa svaras and so on. Earlier gitas were primarily invocations to various deities. Sastri is the earliest to attempt gitas in praise of an Acharya or guru. Of his gitas, the following may be mentioned:
+
+
 S.No. Name of the Gita Raga Tala
 1 Paahi Sri Ramachandra Ananda Bhairavi Dhruva
 2 Gaanavidya dhurandhara Nata Dhruva
@@ -38,15 +47,15 @@ The sahitya of the Nata gita is thus highly significant as it throws useful ligh
 His gitas are highly authoritative and are of great help in tracing the history of ragas. It is noteworthy that in some gitas are seen certain interesting prayogas which must have been current coin in those times, which however were replaced by more aesthetic ones subsequently. Ananda Bhairavi as pictured in his gita”Sri Ramachandra” is an instance. The usage of kakali, nishada and antaraga is not discernible here. Moreover, the pdps and sgrgm, the two key phrases in Ananda Bhairavi are gain conspicuous by their absence. Instead, pnns and sggm phrases occur more than once. The kambhoji raga gita starts on the visesha prayoga, snp, with the anya svarakakali nishada and is replete with raga bhava.
 Of the sapta talas, Dhuruva, Rupaka, Truputa, Jampe and Matya are used in his gitas.
 Besides, Gurumurti Sastri had also composed fine kritis in rakti ragas. Of his songs, the following may be mentioned.
- Nirajanayana-Dhanyasi-Adi
- Sabhapatim hridambhuje-Mohana-Tisra Rupaka
- Spuratute Charana nalina-Devagandhari-Adi
+- Nirajanayana-Dhanyasi-Adi
+- Sabhapatim hridambhuje-Mohana-Tisra Rupaka
+- Spuratute Charana nalina-Devagandhari-Adi
 We can infer from the sahityas of his compositions that his “ishtadevata” was Srirama, whom he has addressed on more than one occasion endearing language. In the Goula raga gita “Sri Ramachandrapura vaasa”, he makes a fervent appeal to his personal God to bless him with greater skill in the art of music and thus fulfill the cherished ambition of his life. His songs in praise of Ramare full of emotion and are touching, since they are couched in a highly musical language. He has also sung on Kishna and Siva. The piece in Mohana Tisra Rupakam describes the beautiful dance of Siva and has an attractive chittasvara.
 The sahityas of his gitas and kritis reflect a highly scholarly style (prowda) and abound in poetic excellence contributed by the presence of rhetorical embellishments like Yamaka, anuprasa and antyaprasa. His proficiency in Sanskrit with the rich vocabulary at his command is something unique. He signed his compositions with the Gurumurti mudra, which occurs generally in the last line of his gitas and in final charanam of kritis.
 Paidala Subbaraya Sastri, the brother of the composer, was a brilliant singer and a composer of varnams as well. His son, Sundarayya, was also an able musician and the Devagandhari song is ascribed to him wherein the author invokes Sri Krishna to give him progeny and guru bhakti.
 Disciples
- Kudala Seshayyar of Kanchipuram
- Sobhanadri 
+- Kudala Seshayyar of Kanchipuram
+- Sobhanadri 
 
 === 3.2 PURANDARA DASA 
 

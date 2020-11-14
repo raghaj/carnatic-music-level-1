@@ -1,3 +1,8 @@
+:linkcss:
+:imagesdir: ./images
+:stylesdir: stylesheets/
+:stylesheet:  colony.css
+:data-uri:
 
 
 == 1. 	SREE GANANATHA
@@ -5,19 +10,15 @@
 Ragam: Malahari 
 ARO:   	s r1 m1 p d1 ṡ || 
 AVA:  	ṡ d1 p m1 g3 r1 s 	|| 
-Talam: Rupakam (Chathurasra Jathi) 
-Composer: Purandaradasa 
- 
-Sahityam: 
+Talam: Rupakam (Chathurasra Jathi)
+
+==== Composer: Purandaradasa
+==== Sahityam:
 Sri Gananatha Sindhoora Varna Karuna Saagara Kari Vadana 
 Lambodhara Lakumi-karaa Ambaa Sutha Amara Vinutha 
 Siddha Chaarana Gana Sevitha Siddhi Vinayaka Te Namo Namo 
-Sakala Vidyaadi Poojitha Sarvothama Te Namo Namo 
-Sahityam: 
-Sri Gananatha Sindhoora Varna Karuna Saagara Kari Vadana 
-Lambodhara Lakumi-karaa Ambaa Sutha Amara Vinutha 
-Siddha Chaarana Gana Sevitha Siddhi Vinayaka Te Namo Namo 
-Sakala Vidyaadi Poojitha Sarvothama Te Namo Namo 
+Sakala Vidyaadi Poojitha Sarvothama Te Namo Namo
+
 1. 
 m 	p    | d ṡ ṡ 	 ṙ    || ṙ 	 ṡ      | 	d 	p 	m p     ||  
 Sree -  | Ga na na tha ||   sin dhu | 
@@ -47,19 +48,23 @@ r 	m  | p d m 	p || 	d 	p 	| m 	g 	r s ||
 Sa 	-  | rvo - 	tha ma || 	the - 	| na mo na  mo 	|| 	 
  	    	 	 	 	  	 	 	 	 	 	  	(Lam) 
  
-LESSON VII
-2. KUNDA GAURA 
+=== LESSON VII
+==== 2. KUNDA GAURA
+
 : Malahari    
 	Arohanam : s r1 m1 pd1 ṡ  	 	 
  	Avarohanam: ṡ d1 pm1 g2 r1 s                             
 Talam:  Rupakam   (Chathurasra Jathi) 
 Composer: Purandaradasa 
  
-Sahityam: 
-Kunda goura Gowri vara mandhirãya mana makuta mandãra kusumãkara makarandam vãsithuvã 
- 
+==== Sahityam:
+
+Kunda goura Gowri vara mandhirãya
+
+mana makuta mandãra kusumãkara makarandam vãsithuvã
+
 Hé makuta simhãsana virupãksha karunãkara (Man) 
- 
+
 Chanda mãma mandãkini mandirãya mãna makuta (Man) 
  
 1. 
@@ -87,9 +92,11 @@ Man - | da 	- 	ra 	- || 	ku su 	| 	ma - ka ra||
  
 	d 	ṙ | ṙ  	ṡ 	d 	p || 	d 	p 	| m 	g    r  s|| 
 	Man - | di 	 	ra - ya || 	ma - 	| na 	ma ku ta|| 
-	 	    	 	 	 	  	 	 	 	 	 	 (Man) 
-LESSON VIII
-3. KERAYA NEERANU 
+
+
+=== LESSON VIII
+
+=== 3. KERAYA NEERANU
 : Malahari  
 ARO:  s r1 m1 pd1 ṡ 	||  	AVA: ṡ d1 pm1 g2 r1 s 	|| 
 Talam:  Triputa    (Chathurasra Jathi) 
@@ -119,10 +126,12 @@ Ha ri  sa | ma - | rpa ne|| 	ma - 	di | ba du | ki ro|| s r  r | s r | s r     |
 s r  r | s r | s    r  || d d p |m   g  | r s || Ha ri  ya | ka ru | na  do|| la - da |bha -|gya va || 
  
 	d 	p  d 	| ṡ 	, | d 	p || 	d d 	p | m g |r  s || 
-	Ha ri  sa | ma - | rpa ne|| 	ma - 	di | ba du |ki ro || 
-LESSON IX
-4. PADUMANABHA 
-: Malahari (15th Melakartha Janyam) 
+	Ha ri  sa | ma - | rpa ne|| 	ma - 	di | ba du |ki ro ||
+
+==== LESSON IX
+=== 4. PADUMANABHA
+
+Malahari (15th Melakartha Janyam)
 ARO: s r1 m1 pd1 ṡ || 
  	AVA: ṡ d1 pm1 g2 r1 s 	|| 
 Talam:  Triputa    (Chathurasra Jathi) 
@@ -176,8 +185,9 @@ d 	d  p   | p , 	| p m 	|| r 	, 	m 	| 	m g | r s ||
 A 	bhi -   | na - 	| va pu 	|| ran - 	da | 	ra - | - vi || 
  	  
 s ,  s | d d | d p || p , p |  m g |  r s || tal -  la | bhal - | la re || ra - ma | na - |- ma || 
-LESSON X 
-5. VARAVEENA
+
+=== LESSON X
+==== 5. VARAVEENA
 : Mohanam  (28th melakartha janyam) 
 	Arohanam : s r2 g2 pd2 ṡ  	 	 	 	 
 Avarohanam: ṡ d2 pg2 r2 s 
@@ -216,8 +226,9 @@ Sa     ra     | si - 	ja     -     | sa        na     ||   na 	ni    -      ||
  
 s 	r      | s 	g 	r  s 	|| r 	r 	| 	s 	d s, || 
 Ja    ya     | 	ja ya ja     ya 	|| jaya re , re . || 
-LESSON XI 
-6. ANALEKARA
+
+=== LESSON XI
+=== 6. ANALEKARA
 : Suddha Saveri (29th mela janyam) 
 	Arohanam : s r2 m1 pd2 ṡ 	 	 	 	 	 
 Avarohanam: ṡ d2 pm1 r2 s 
@@ -253,8 +264,10 @@ p 	p  d 	| p 	p | m 	r || 	r 	s 	r 	| m , | m , ||
 a 	-      - 	| a 	- | - 	- || 	se - 	thu | va - | ha - || 
  
 d p  d     |     ṡ     ,     | ṡ   ,   ||  pa ri      ga | tam   - |    nam  - || LESSON XII 
-SVARAPALLAVI
-: Vasanta  
+
+=== SVARAPALLAVI
+Vasanta
+
 Aarohana:  s g m d n ṡ     
 	  	Avarohana: ṡ n d m g r s 
 Talam: Misra Chapu 
@@ -270,7 +283,9 @@ Charanam 4:
 ṡ  ġ ṁ  ġ  ṙ ṡ  n  || d  n  ṡ  n  d  m  g  || m  d  n ṡ  n  d  m ||  g  m  d  m  g  r s  
 || ṇ  s  ṇ  ḍ  ṇ  s  g  || m  d  m  g  m  d  n || ṡ  ġ ṁ  ġ  ṙ ṡ  n ṙ  ṡ || n  d m  d  n 
 || (s . . ) 
-REFERENCE BOOKS 
+
+=== REFERENCE BOOKS
+
 1.	South Indian Music - 3 volumes by Prof P.Sambamurthy 
 2.	Sangeetha Sastra Samgrahanam by P.K. Indrani 
 3.	Ganamrutha Bodhini by A.S. Panchapakesa Iyer. 
