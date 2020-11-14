@@ -81,9 +81,16 @@ Notable composers who wrote Geethas are
 
 The points of distinction between an ordinary gita and a lakshana gita have already been referred.
 These gitas generally consist of three sections or khandas: sutra khanda, upanga khanda and bhashanga khanda. In the sutra khanda, the initial syllables of the sahityas of the avartas give the clue to the kinds of svaras taken by the mela.
-For example, the initial syllables of the first section of the lakshana gita in Mayamalavagaula raga are: ra gu ma pa dha nu. From this, one is able to infer that the suddha rishabha, antara gandhara, suddha madhyama, suddha dhaivata, and kakali nishada, (besides sa and pa) are the notes taken by this raga. Further, the phrase Agni-go chakra given the clue to the fact that it is the 3rd raga in the Agni or the III chakra and its serial number is therefore 15. The next two sections of the gita respectively give the list of upanga ragas and bhashanga ragas derived from this melakarta. This codified list of ragas is of great use in determining the history of ragas. Some ragas figuring in the upanga list have since become bhashanga. Again, a few ragas mentioned in these gitas are not now current. Hence the historical value of these raganga raga lakshana gitas. Lakshana gitas pertaining to those raganga ragas, which do not claim an appreciable number of janya rags, do not have these three sections. Their musical structure is after the model of the ordinary gita. The mnemonics for the suddha-vikrta svaras as also the mela mnemonics however figure therein.
+
+For example, the initial syllables of the first section of the lakshana gita in Mayamalavagaula raga are: ra gu ma pa dha nu.
+From this, one is able to infer that the suddha rishabha, antara gandhara, suddha madhyama, suddha dhaivata, and kakali nishada, (besides sa and pa) are the notes taken by this raga. Further, the phrase Agni-go chakra given the clue to the fact that it is the 3rd raga in the Agni or the III chakra and its serial number is therefore 15.
+
+The next two sections of the gita respectively give the list of upanga ragas and bhashanga ragas derived from this melakarta. This codified list of ragas is of great use in determining the history of ragas. Some ragas figuring in the upanga list have since become bhashanga. Again, a few ragas mentioned in these gitas are not now current. Hence the historical value of these raganga raga lakshana gitas. Lakshana gitas pertaining to those raganga ragas, which do not claim an appreciable number of janya rags, do not have these three sections. Their musical structure is after the model of the ordinary gita. The mnemonics for the suddha-vikrta svaras as also the mela mnemonics however figure therein.
+
 Since ragas not mentioned in the Chaturdandi prakasika figure in these raganga raga lakshana gitas, it is certain that
 these gitas are the compositions of a later composer and not those of Venkatamakhi.
+
+
 The fact that in these raganga raga lakshana gitas, there are only the upanga and bhashanga khandas and not a separate section for kriyanga ragas is proof of the fact that the concept of kriyanga ragas as a separate class became obsolete long ago. All the kriyanga ragas of the earlier period were rediscovered in the later Raganga, Upanga or Bhashanga ragas.
 There are lakshana gitas for all the current 72 mela ragas (Kanakangi- Ratnangi series) and these are printed in the Ganendu sekharam of Tachchur Singaracharlu and in the Sangraha chudamani of Govindacharya.
 
