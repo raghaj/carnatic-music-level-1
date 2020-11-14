@@ -1,6 +1,11 @@
 = THEORY
+:linkcss:
+:imagesdir: ./images
+:stylesdir: stylesheets/
+:stylesheet:  colony.css
+:data-uri:
 
-== UNIT – I
+= UNIT – I
 
 == TECHNICAL TERMS
 
@@ -31,7 +36,6 @@ The Indian Music has two types of music
 Technical terms are those terms which are often used in music. Each term has a definite definition and here each definition is given in detail.
 
 === 1.2.1 SANGITAM
-
 :icons: font
 [NOTE]
 ====
