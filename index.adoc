@@ -1,0 +1,20 @@
+= Advanced Diploma in Music - Level 1
+:linkcss:
+:imagesdir: ./images
+:stylesdir: stylesheets/
+:stylesheet:  colony.css
+:data-uri:
+
+= Table of Contents
+
+=== Theory
+
+1. link:./1-chapter.adoc[Unit 1 - Technical Terms]
+2. link:./2-chapter.adoc[Unit 2 - Rachana Lakshanas]
+3. link:./3-chapter.adoc[Unit 3 - Life History and Contributions of Composers]
+4. link:./4-chapter.adoc[Unit 4- Tala]
+5. link:./1-chapter.adoc[Unit 5 - Raga Lakshanas]
+
+=== Practicals
+
+6. link:./6-chapter.adoc[Practicals - Notation]
