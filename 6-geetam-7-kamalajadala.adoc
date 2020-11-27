@@ -1,0 +1,28 @@
+
+Layout: Gitam,FullWidth
+Tala: MisraCapu
+SwaraPrefs: 28
+LyricPrefs: 28
+Heading: " KAMALAJADALA - Composer - Purandaradasa" ,bold,center,26
+Heading: " " ,left,22
+Heading: " Kalyani (65th melakartha janyam)" Talam: Misra chapu ,left,22
+Heading: " Arohanam: S R2 G3 M2 P D2 N3 S Avarohanam: S N3 D2 P M2 G3 R2 S" ,left,22
+Heading: " " ,left,22
+
+S:  S’ S’ S’   N D N S’    N D P     D P M P
+L:  Ka ma la   jaa - da la  Vi ma la  Su na ya na
+
+S:  G M P   P D D N     D P M   P G R S
+L: Ka ri Va ra da Ka ru naa - mbu dhe - - -
+
+S:  D` D` D`   G G G ,    M P ,   M G R S   
+L: Ka ru na Sha ra dhe - Ka ma - laa - - -
+
+S:  R , ,   S , , ,    , , ,   , , , ,   
+L: Kaan- - - thaa - - - - - - - - - -
+
+S:  G M P   M P D P    N D P   D P M P   
+L: Ke - shi Na ra kaa - su ra Vi bhe - da na
+
+S:  G M P     P D D N    D P  M   P G R S
+L:  Va ra dha Ve - - laa pu ra Su ro - tta ma

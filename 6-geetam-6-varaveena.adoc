@@ -1,0 +1,39 @@
+Layout: Gitam,FullWidth
+Tala: Rupaka
+SwaraPrefs: 28
+LyricPrefs: 28
+Heading: " VARAVEENA - Composer - Purandaradasa" ,bold,center,26
+Heading: " " ,left,22
+Heading: " Mohanam (28th melakartha janyam)" Talam: Rupakam ,left,22
+Heading: " Arohanam: S R2 G3 P D2 S Avarohanam: S D2 P G3 R2 S" ,left,22
+Heading: " " ,left,22
+
+S: G G    P , P ,       D   P       S' , S' ,
+L: va ra  vee - na -    Mru du      pa - ni -
+
+S: R S    D D P ,    D P      G G R ,     
+L: va na    ru ha lo -    cha na      raa - ni -     
+
+S: G P    D S D ,    D P      G G R ,     
+L: su ru    chi ra Bam -    bha ra      Ve - ni -     
+
+S: G G    D P G ,    P G      G R S ,     
+L: su ra    nu tha Kal -    ya -      - - ni -     
+
+S: G G    G G R G    P G      P , P ,     
+L: ni ru    pa ma Shu bha    Gu na      Lo - la -     
+
+S: G G    D P D ,    D P      S , S ,     
+L: Ni ra    thi Ja ya -    Pra da      See - la -     
+
+S: D G    R R S S    D S      D D D P     
+L: Va ra    da - Pri ya    Ran ga      naa - ya ki     
+
+S: G P    D S      D    P    D  P      G G R S
+L: Vaa -  n chitha Pha la    Daa -      - - ya ki
+
+S: S R    G , G ,    G R      P G R ,     
+L: Sa ra    si - ja -    sa na      Ja na ni -     
+
+S: S R    S G R S     
+L: Ja ya    ja ya ja ya     

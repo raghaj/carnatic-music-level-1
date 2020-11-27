@@ -1,0 +1,43 @@
+Layout: Gitam,FullWidth
+Tala: Triputa
+SwaraPrefs: 28
+LyricPrefs: 28
+Heading: " Kereya Neeranu Composer - Purandaradasa" ,bold,center,26
+Heading: " " ,left,22
+Heading: " Ragam: Malahari Talam: Rupakam" ,left,22
+Heading: " Arohanam: S R1 M1 P D1 S Avarohanam: S D1 P M1 G3 R1 S" ,left,22
+Heading: " " ,left,22
+
+S: D S' S' | D P | M P || D D P | M M | P P ||
+L: Ke re ya Nee - ra nu Ke re ge chal - li - 
+
+S: D D S' | D P | M P || D D P | M G | R S ||
+L: Va ra va pa de da va ran - te Kaa - ni ro 
+
+S: S R R | S R | S R || D D P | M G | R S ||
+L: Ha ri ya ka ru na do laa - da bha - gya va 
+
+S: D P D | S' - | D P || D D P | M G | R S ||
+L: Ha ri sa ma - rpa ne ma - di ba du ki ro 
+
+S: S R R | S R | S R || D D P | M G | R S ||
+L: Ha ri ya ka ru na da la - ya bha - gya va 
+
+Heading: &quot;&quot;" ,bold,left,26
+Heading: "Charanam 2" ,bold,left,24
+Heading: "&quot;&quot; ,bold,left,26
+
+S: D S' S' | D P | M P || D D P | M M | P P ||
+L: Sree - pu ran - da ra vi ta la ra - ya - 
+
+S: D D S' | D P | M P || D D P | M G | R S ||
+L: Cha ra na ka ma la va no - di ba du ki ro 
+
+S: S R R | S R | S R || D D P | M G | R S ||
+L: Ha ri ya ka ru na do la - da bha - gya va 
+
+S: D P D | S' - | D P || D D P | M G | R S ||
+L: Ha ri sa ma - rpa ne ma - di ba du ki ro 
+
+S: S R R | S R | S R || D D P | M G | R S ||
+L: Ha ri ya ka ru na do la - da bha - gya va

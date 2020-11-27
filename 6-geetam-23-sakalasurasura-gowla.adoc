@@ -1,0 +1,26 @@
+Layout: Gitam,FullWidth
+Tala: Rupaka
+SwaraPrefs: 28
+LyricPrefs: 28
+Heading: "Sakalasurasura " ,bold,center,26
+Heading: " " ,left,22
+Heading: " Rāgam : Gowla Janya of 15th mela - Talam: Rupakam" ,left,22
+Heading: "Arohanam: S R1 M1 P N3 S Avarohanam : S N3 P M1 R1 G3 M1 R1 S " ,left,22
+Heading: " " ,left,22
+
+S: S   N  P  N  S  R  R'  M'  R'  S'  N  S'
+L: sa ka la su ra - su ra ki ree - ta
+S: R  P  M  R  G  M   R  S  N  P  M  P
+L: ma ni ki ra - na ni - ra - ji ta
+S: R  R  S  N  P  P  M  M  R  M  P  N
+L: cha ra - na yu ga - lu ka - va nu
+S: S'  ,  S'  ,  S'  ,  R'  R'  S'  ,  N  P
+L: re -   re -   re  - bha - kta - ja na
+S: M  R  G  M  R  S   R  M  P  N  P  N
+L: ma no - - ra dha  pha la daa - - -
+S: S'  R'  R'  M'  R'  S'  R  P  M  R  G  M
+L: - - - - ya ka ni ki ku maa - ra
+S: R'  S'  N  P  M  P  R'  R'  S'  N  P  P
+L: ni - ra - ji ta bha ya ni - vaa -
+S: M  M  R  M  P  N   S'  ,  S'  ,  S'  ,
+L: ra nu ka - va lu re - re - re -

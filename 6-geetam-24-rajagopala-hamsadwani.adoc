@@ -1,0 +1,24 @@
+Layout: Kriti,FullWidth
+Tala: MisraCapu
+DefaultSpeed: 1
+SwaraPrefs: 28
+LyricPrefs: 28
+Heading: "Rajagopala - Hamsadwani " ,bold,center,26
+Heading: " " ,left,22
+Heading: " Rāgam : Hamsadwani Janya of 29th mela - Talam: Misra Chapu" ,left,22
+Heading: "Arohanam: S R2 G3 P N3 S Avarohanam : S N3 P G3  R2 S " ,left,22
+Heading: " " ,left,22
+
+S: S'   ,   N   P   N   P   ,   G   ,   R   S   R   S   ,
+l: ra   -   ja go   - - - paa  - la ba - la -
+S: P`   ,   N`   S   R   G   P    G   ,   R   S   ,   S   ,
+L: ra    -    rya    gu Na srun - ga - ra lee - laa -
+S: R   ,   G   R   G   P   G    P   ,   N   P   ,   P   ,
+L: ra - sa ke - la na bha - su ran - ga -
+S: G   ,   R   S   ,   R   G    P   ,   N   S'   ,   S'   ,
+L: ra - dhi kaa - la la naa - mta ram - ga -
+S: P   N   S'   R'   ,   G'   R'    S'   R'   S'   S'   ,   N   P
+L: ra  -   ja   pa -     tta  na    va    -   sa   da.   - - sa
+S: N   S'   R'   S'   ,   S'   N    P   P   ,   R   G   P   N
+L: la ha ri se - vi ta pa dam - - bu ja sri
+

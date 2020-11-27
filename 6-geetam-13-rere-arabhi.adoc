@@ -1,0 +1,42 @@
+Layout: Gitam,FullWidth
+Tala: Triputa
+SwaraPrefs: 28
+LyricPrefs: 28
+Heading: "Rere sriramachandra" ,bold,center,26
+Heading: " " ,left,22
+Heading: " Arabhi (29 melakartha ) Talam: Adi Talam " ,left,22
+Heading: " Arohanam: S R2M1 PD2 S Avarohanam: S N3D2 PM1 G3 R2 S " ,left,22
+Heading: " " ,left,22
+
+S: P , P M M P , M G R S R M G
+L: Re - re Shree - ra - - ¬- ma chan - - - 
+
+S: R R S S D` R S R - - R - S R
+L: - - - - - - - ndra - - - - Ra ghu 
+
+S: M G R R S S - P M M P - P -
+L: Vam - sha Ti la ka - Ra - gha ven - dra ¬ 
+
+S: P M P M G R R M G R S R S S
+L: A - - - - - - a - - - - - - 
+
+S: S D`R	 	S	R	 	S	S	  	D` S - D D D P
+L: A - - - - - - a - - Sri tha ja na 
+
+S: P`M` P`D` S S - R S R M G R R
+L: Po - sha ku - re - See - - tha - - Ma 
+
+S: M G R M M P M P - P P - P -
+L: no - - ran - ja nu Re - re Dhee - ra - 
+
+S: P M P D S' S' R' M' G' R' S' R' S' S'
+L: Ra - va na - su ra An - tha ku - re - 
+
+S: S' D R' S' R' S' S' D S' - D D D P
+L: A - - yi ya yi ya a ¬- ¬ yi ya yi ya 
+
+S: P M P D S' S' - S' - S' D D D P
+L: A - - yi ya re - Dhee - na Ja na Man - 
+
+S: P M P M G R R
+L: daa - ru Maa - ma va

@@ -1,0 +1,52 @@
+Layout: Gitam,FullWidth
+Tala: Dhruva
+SwaraPrefs: 28
+LyricPrefs: 28
+Heading: "Jāyakaruna Sindho  - by Paidāla Gurumūrthi Sāstri" ,bold,center,26
+Heading: " " ,left,22
+Heading: "Rāga : Dhanyasi (Hanumatodi Janyam) - Tālam: Chaturasra Jāthi Dhruva Talam " ,left,22
+Heading: " Arōhanam: S G₂ M₁ P N₂ Ṡ   Avarōhanam : Ṡ N₂ D₁ P M₁ G₂ R₁ S " ,left,22
+Heading: " " ,left,22
+
+S: P` P` N` N` S , N S G , M G R S
+L: ja ya ka ru na - sin - - - dho - - -
+S: N` D` P` N` S , N S M G G R S ,
+L: ta va pa - dam - bu ja ma ma lam - - -
+S: G , M , P , G M P M G R S ,
+L: dhya - ya - mi - sri - - -  kam tha - -
+S: N` , S , N` D` P` N` S G G R S ,
+L: bha - kta - va li pa - la na cha ra ne -
+S: G G M , M M N N S S G G M ,
+L: dha - nya -  - si  ra - - - - - - gam
+S: G M , P M P G M P G M G R S
+L: ga - - - - - ya - - - - - mi -
+S: N D P N   S , G M P M G R S ,
+L: sru nu ti - - -  la - kha na ma khi lam -
+S: P M P G M P N P G M G G R S
+L: aa - sh tama - di ra - - ri ja - nyam -
+S: N S , G M P G M , G G R R S
+L: ou - - - - - - - - - - - da va
+S: S , N` D` P` N` S G G R G R S ,
+L: sam - - - - - poo - - - - - rnam -
+S: S , S , G G M , P M G M P ,
+L: a - - - - - ro - - - - - he -
+S: S S , N` D` P` S , N D P N S ,
+L: ri dha - kva - - - - - - - - -  ktam
+S: P` N` S G G , N` P` N` S M G R S
+L: a va ro - - - he - - - - - - -
+
+
+S: M G P M  P N G G M M   P  P N N
+L: poo - - - - - - - - - - - rnam -
+S: G M P G R S M G P M N N S' ,
+L: ma - - - - dra ma - - - dhya - - -
+S: P N S' ,   N S'   P P S' ,     N N D P
+L: ta - - -   - ra   ka li tam -   - - - -
+S: P , M P   M G   M , G G   R R S ,
+L: ga - dha - - - aa - la si tam - - -
+S: S , N` D` P` N` S G M P M G R S
+L: na da bhe - - da dhu ri - -  - - - Na
+S: P M G R S P M P M G R G G S
+L: gu ru mu - - - - - - - rte - - -
+S: N` D` P` N` N` S G G R S S R S ,
+L: pra - si - - - - - - - - - -  ddha

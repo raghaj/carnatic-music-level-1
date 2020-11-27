@@ -1,3 +1,10 @@
-LESSON – III 
-DATU SVARALU 
-1. s m g m | r g | s r ||  s g r g | s r | g m ||  r p m p | g m | r g ||  r m g m | r g | m p ||  g d p d | m p | g m ||  g p m p | g m | p d ||  m n d n | p d | m p ||  m d p d | m p | d n ||  p ṡ n ṡ | d n | p d ||  p n d n | p d | n ṡ ||  ṡ p d p | n d | ṡ n ||  ṡ d n d | ṡ n | d p ||  n m p m| d p | n d ||  n p d p | n d | p m ||  d g m g | p m | d p ||  d m p m | d p | m g ||  p r g r | m g | p m ||  p g m g | p m | g r ||  m s r s | g r | m g ||  m r g r | m g | r s || 2. s r s g | r g | r m ||  s m g r | s r | g m ||  r g r m | g m | g p ||  r p m g | r g | m p ||  g m g p | m p | m d ||  g d p m | g m | p d ||  m p m d | p d | p n ||  m n d p | m p | d n ||  p d p n | d n | d ṡ ||  p ṡ n d | p d | n ṡ ||  ṡ n ṡ d | n d | n p ||  ṡ p d n | ṡ n | d p ||  n d n p | d p | d m ||  n m p d | n d | p m ||  d p d m | p m | p g ||  d g m p | d p | m g ||  p m p g | m g | m r ||  p r g m | p m | g r ||  m g m r | g r | g s ||  m s r g | m g | r s || 
+Layout: Gitam,FullWidth
+Tala: Adi
+Heading: "Dhatu Swarams",bold,center,28
+Heading: "MayamalavaGowla Ragam - Adi Talam",bold,center,26
+Heading: "Arohanam - S R2 G3 M1 P D1 N3 S	,    Avarahonam -  S N3 D1 P M1 G3 R2 S",bold,center,16
+SwaraPrefs: 28
+LyricPrefs: 28
+S: "1" S M G M | R G | S R ||  S G R G | S R | G M ||  R P M P | G M | R G ||  R M G M | R G | M P ||  G D P D | M P | G M ||  G P M P | G M | P D ||  M N D N | P D | M P ||  M D P D | M P | D N ||  P S' N S' | D N | P D ||  P N D N | P D | N S' ||  S' P D P | N D | S' N ||  S' D N D | S' N | D P ||  N M P M| D P | N D ||  N P D P | N D | P M ||  D G M G | P M | D P ||  D M P M | D P | M G ||  P R G R | M G | P M ||  P G M G | P M | G R ||  M S R S | G R | M G ||  M R G R | M G | R S || 
+Heading: "",bold,center,26
+S: "2" S R S G | R G | R M ||  S M G R | S R | G M ||  R G R M | G M | G P ||  R P M G | R G | M P ||  G M G P | M P | M D ||  G D P M | G M | P D ||  M P M D | P D | P N ||  M N D P | M P | D N ||  P D P N | D N | D S' ||  P S' N D | P D | N S' ||  S' N S' D | N D | N P ||  S' P D N | S' N | D P ||  N D N P | D P | D M ||  N M P D | N D | P M ||  D P D M | P M | P G ||  D G M P | D P | M G ||  P M P G | M G | M R ||  P R G M | P M | G R ||  M G M R | G R | G S ||  M S R G | M G | R S || 

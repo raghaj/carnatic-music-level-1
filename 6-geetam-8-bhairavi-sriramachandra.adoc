@@ -1,0 +1,24 @@
+Layout: Gitam,FullWidth
+Tala: Dhruva
+SwaraPrefs: 28
+LyricPrefs: 28
+Heading: " Sri Ramachandra - Composer - Purandaradasa" ,bold,center,26
+Heading: " " ,left,22
+Heading: " Bhairavi (20th melakartha - Natabhairavi janyam )" Talam: Chaturasra Jati Dhruva Talam ,left,22
+Heading: " Arohanam: S G2R2 G2M2 PD2 N2S Avarohanam: : S N2D1 PM1 G2 R2 S" ,left,22
+Heading: " " ,left,22
+
+S: G R G M  P ,  M G R G  M P M ,
+L: Shree - Raa -  ma -  chan - draa -  Sri tha Paa -
+S: P D2 N N  D1 P  M N D1 P  M G R S
+L: - ri jaa -  - tha  Sa ma - -  - - - stha
+S: S R S P  M P  G R G M  G G R S
+L: Kal - - ya  - na  Gu na - bhi  raa - - ma
+S: R R G G  M M  G G R G  M P M M
+L: See - tha -  Mu kha  Am - - -  bo - ru ha
+S: P D2 D2 N  N S'  P D2 N S'  R' G' R' S'
+L: San - - -  - cha  ree - - -  - - - ka
+S: N R' S' G'  R' S'  N N D1 M  P D2 N S'
+L: Ni ran - tha  ram -  Man - ga la  Ma - - ta
+S: P D1 P S'  N S'  P D1 M P  G , R S
+L: No - - tu  - -  - - - -  - - - - 

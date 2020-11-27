@@ -1,0 +1,38 @@
+Layout: Gitam,FullWidth
+Tala: Triputa
+SwaraPrefs: 28
+LyricPrefs: 28
+Heading: "Jānakee Ramanathe  - by Paidāla Gurumūrthi Sāstri" ,bold,center,26
+Heading: " " ,left,22
+Heading: "Rāga : Neelāmbari Janya- 29th mēla- Sankarābharanam - Tālam: Tisra Jāthi Triputa " ,left,22
+Heading: " Arōhanam: S R2 G3 M1 P D2 P N3 S   Avarōhanam : S N3 P M1 G3 R2 G3 S " ,left,22
+Heading: " " ,left,22
+
+S: S , R  R S S N`   S R G M , , ,
+L: ja   na - kee  -   -   -    ra ma na  tē  -   -   -
+S: R G R- M G M ,   M G ,- S , , ,
+L: na mo  -  -  -   -   -       na mo  -  -  -   -   -
+S: S S S P , P ,   N P M P M G ,
+L: da nu ja  śi  -  kshā  -    pa ṭo   - mu ni mā  -
+S: M P ,- M P M G   R G M- M G S ,
+L: na sā  -  -  -   -    bja    rā   ji - tān  -  grē  -
+S: S' , S' S' , , ,   S' N P P M M G
+L: gā  -  na  mā  -   -   -    dhu  -  rya  lo  -  lu pa
+S: G , M P N P M   P M G R G M ,
+L: rā  -  ma  chan  -  dra  -    dā  -   -   śa ra tē  -
+S: G R M G , G S   S S R  R S N` ,
+L: rā    -  -  -   -  gha va   ni ra tam  mē  -   -   -
+S: S R G M , , ,   G M P P , , ,
+L: ta va kri  pā  -   -   -    su ru chi ram  -   -   -
+S: M G M P N2 D N2   P D P P M M G
+L: ja gan  - nā  -   -  tha   tā  -  va  kee  -   -  na
+S: P M G R G S ,   S' N P  P M M G
+L: bha ja na  ma ni śam  -    dē  -  hi  bhō  -   -   -
+S: G R M G , S ,   N` S R  G M G M
+L: swa     -  -  -   -  min  -    a  -   -  -  -   -   -
+S: G M P M P S ,   S' N P  P M M G
+L: a     -  -  -   -   -   -    a     -  -  -   -   -   -
+S: P M G R G S ,   S' N P  P M M G
+L: a  -   -  -  -   -   -       ja ya  - sree  -   -   -
+S: G R M G , S ,   , , ,  , , , ,
+L: gu ru moo     -  rtē  -     -  -  -  -  -   -   -   -

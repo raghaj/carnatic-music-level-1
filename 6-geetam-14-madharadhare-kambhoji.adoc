@@ -1,0 +1,58 @@
+Layout: Gitam,FullWidth
+Tala: Adi
+SwaraPrefs: 28
+LyricPrefs: 28
+Heading: "Mandhara Dhaare" ,bold,center,26
+Heading: " " ,left,22
+Heading: " Kambhoji (28 melakartha ) Talam: Adi Talam " ,left,22
+Heading: " Arohanam: S R2 G3 M1 P D2 S Avarohanam: S N2 D2 P M1 G3 R2 S " ,left,22
+Heading: " N3 in phrase NPDS makes Kambhoji a bhashanga raga " ,left,22
+Heading: " " ,left,22
+
+S: S' , N P   D D S' ,  
+
+L: man - da ra   dha - re -  
+
+S: D S' R' G'   M' G' G' R' 
+
+L: Mo - Ksha mu   ra - - re 
+
+S: S' R' S' S'   N N D P  
+
+L: Dy th ya ku   la am tha ka 
+
+S: D D P M   G M P -  
+
+L: P - va na   Mo - ru the-  
+
+S: G P D S'   N N D P 
+
+L: pa da su bha  re - - kha 
+
+S: D D P P   M G R S 
+
+L: Ma ku ta Ma   yu - - ra 
+
+S: G P P D   D S' S' R' 
+
+L: Aa - - -   - - - -  
+
+S: R' P' M' G'   R' G' R' S' 
+
+L: Aa - - -   - - - -  
+
+S: S' R' S' S'   N N D P 
+
+L: Dy th ya ku   la am tha ka 
+
+S: D D P M   G M P , 
+
+L: P - va na   Mo - rthe - 
+
+S: G P D S'   N N D P 
+
+L: pa da su bha  re - - kha 
+
+S: D D P P   M G R S 
+
+L: Ma ku ta ma   yu - - ra 

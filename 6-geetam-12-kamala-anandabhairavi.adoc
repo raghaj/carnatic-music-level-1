@@ -1,0 +1,62 @@
+Layout: Gitam,FullWidth
+Tala: Adi
+SwaraPrefs: 28
+LyricPrefs: 28
+Heading: " Kamalasulochana" ,bold,center,26
+Heading: " " ,left,22
+Heading: " Ananda Bhairavi (20 melakartha NataBhairavi ) Talam: Adi TalaM " ,left,22
+Heading: " Arohanam: S G₂ R₂ G₂ M₁ P D₂ P Ṡ Avarohanam: : Ṡ N₂ D₂ P M₁ G₂ R₂ S" ,left,22
+Heading: " " ,left,22
+
+S: N D N S' | S' - | N S' ||
+L: Ka ma la su lo - cha na,
+S: G' R' S' N | N D | P M ||
+L: vi ma la tha ta - gi ni
+
+S: P P P D | N D | P M ||
+L: ma ra - la ga - mi ni
+
+S: M P M P | G R | S - ||
+L: ka ri ha ra ma dh ye -
+
+S: S , N` , | S G | G M ||
+L: bim - ba - - - na na
+
+S: G M P M | G R | S - ||
+L: vi du ma N da la re -
+
+S: P , M G | M , | G R ||
+L: chan - da na kuM - ku ma
+
+S: G , R N` | S , | S ,||
+
+L: sam - ka li tha - - -
+
+S: P P M G | M M | G R ||
+L: pa ri ma la ka S thu ri
+
+S: G G R N` | S , | S , ||
+
+L: thi la ka tha re - re -
+
+S: S G R G | M G | M , ||
+L: ja - - ji sha i ya -
+
+S: P N D N | P D | N S' ||
+L: ka cha ku cha gha na ja ga
+
+S: G' R' S' N | N D | P M ||
+L: nam - - - bo - - ja
+
+S: P P P D | N D | P M ||
+L: ma ra - la ga - mi ni
+
+S: M P M P | G R | S , ||
+L: ka ri ha ra ma dh ye -
+
+S: S , N` , | S G | G M ||
+
+L: bim - ba - - - na na
+
+S: G M P M | G R | S , ||
+L: vi du ma N da la re -

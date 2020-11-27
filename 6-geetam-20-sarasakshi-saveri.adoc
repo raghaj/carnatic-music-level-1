@@ -1,0 +1,36 @@
+Layout: Gitam,FullWidth
+Tala: Triputa
+SwaraPrefs: 28
+LyricPrefs: 28
+Heading: "SaraSakshi  - by Shyama Sāstri" ,bold,center,26
+Heading: " " ,left,22
+Heading: "Rāga : Saveri - Tālam: Tisra Jāthi Triputa Talam " ,left,22
+Heading: " Arōhanam: S R1 M1 P D1 S  Avarōhanam : Ṡ N3 D1 P M1 G3 R1 S " ,left,22
+Heading: " " ,left,22
+
+S: S' , S' N D D S' D , P , M G R
+L: sa - ra sa - kshi sa da - pa - hi ma m
+S: S R M M D D D S' N D M D S' ,
+L:  ku ma - ra ja na ni sa ra sa hru da ye -
+S: D S' ,  R'  R' G' R' R'  , R' G' R' S' ,
+L: pa ra - sak ti ba - le   - su shee - - -
+S: R' S' , N D   D D    D M D  ,    R' S' ,
+L: a pa -  ra ma hi ma  spoor - te - shi ve -
+
+S: S' , S' N D D S' D , P , M G R
+L: ko - ti soo r ya pra be - ko - ma le -
+S: S R M M D D D S' N D M D S' ,
+L: tri ko - na ni la ye ka na ka sa dru she -
+S: D S' ,  R'  R' G' R' R'  , R' G' R' S' ,
+L: ko - tee dhru ta kan - chae - sa lee - le -
+S: R' S' , N D   D D     D M D  ,    R' S' ,
+L:  pra ka - sha su gu na keer - te - lu me -
+
+S: S' , S' N D D S' D , P , M G R
+L:  shya - ma kri sh na nu te - sya - ma le -
+S: S R M M D D D S' N D M D S' ,
+L:  shree ka - ma ko - ti pee - tha sa da ne -
+S: D , S' S' ,    R' S' R' , R'   G' R' S' ,
+L:  sa - ma ga -  na lo le - su sho - bhe -
+S: R' S' , N D   D D     D M D  ,    R' S' ,
+L:  vi sha - la hru da ya moor - te - shu bhe -

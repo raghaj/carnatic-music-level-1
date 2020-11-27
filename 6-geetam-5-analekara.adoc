@@ -1,0 +1,42 @@
+Layout: Gitam,FullWidth
+Tala: Triputa
+SwaraPrefs: 28
+LyricPrefs: 28
+Heading: " Analekara - Composer - Purandaradasa" ,bold,center,26
+Heading: " " ,left,22
+Heading: " Ragam: Sudda Saveri (29th Mela Janyam) Talam: Tisra Triputa" ,left,22
+Heading: " Arohanam: S R2 M1 P D2 S Avarohanam: S D2 P M1 R2 S" ,left,22
+Heading: " " ,left,22
+
+S: R M R R’ S’ D S’ S’ , S’ D P M P
+L: A - na le - ka ra un - ni po - la di 
+
+S: D D S’ D , D P P M R D D D P
+L: sa ka la sha - sthr - apu ra - na di - nam 
+
+S: P , P D D D P P , P M P D P
+L: tha - la di - nam - tha - la pa ri ga thu 
+
+S: P M R S R S R P M P S R S R
+L: re - re a - - - a - - a - - - 
+
+S: P P D P P M R R S R M , M ,
+L: a - - a - - - se - thu va - ha - 
+
+S: D P D S’ , S’ , R’’ R S’ D P M P
+L: pa ri ga tham - nam - ja ta - ju - - ta 
+
+S: D D S’ D , D P P M R D D D P
+L: sa ka la sha - sth rapu ra - na di - nam - 
+
+S: P , P D D D P P , P M P D P
+L: Tha - la di - nam - tha - la pa ri ga thu 
+
+S: P M R S R S R P M P S R S R
+L: re - re a - - - a - - a - a - 
+
+S: P P D P P M R R S R M , M ,
+L: a - - a - - - se - thu va - ha - 
+
+S: D P D S’ , S’ ,
+L: pa ri ga tham - nam -

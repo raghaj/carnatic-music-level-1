@@ -1,0 +1,39 @@
+Layout: Gitam,FullWidth
+Tala: Rupaka
+SwaraPrefs: 28
+LyricPrefs: 28
+Heading: "Sri Rāmachandra - Ghana Raga Geetam - by Paidāla Gurumūrthi Sāstri" ,bold,center,26
+Heading: " " ,left,22
+Heading: " Rāgam : Gowla Janya of 15th mela - Talam: Rupakam" ,left,22
+Heading: "Arohanam: S R1 M1 P N3 S Avarohanam : S N3 P M1 R1 G3 M1 R1 S " ,left,22
+Heading: " " ,left,22 
+
+S: R , R S N`S      R M R , R S     
+L: śree  -  rā  -   -  ma      chan  -   -   -   -  dra      
+S:  M R P M G M      R G M R R S      
+L: sā  -  kē  -   -  tha      pu ra vā  -   -  sa      
+S: S R R S  N` P`N` S R , R S
+L: mu ni ja na mā - na sa ham - - sa
+S: P M P R R S R R M M G M
+L: ni khi la lō - ka pā - - la na dhu
+S: R , R S N`S      R R R S R M      
+L: ree  -   -   -   -  na      kow  -  sal  -  yā  -       
+S: S N` S R M R P M R R S ,
+L: bhā - - - gya - roo - - - pa -
+S: R , M M P , P P M G M ,
+L: dā - śa ra thē - pū - ra ya mē -
+S: R R M G , M R M R R S ,
+L: vān - - chām - - ta va van - dē -
+S: R M R P P M R S M R P M
+L: pā - da ka ma lam ani - śam - - - 
+
+S: R M P N M P S R M P N S'
+L: kri pā - - lo - gā - na pha ni thi
+S: S , R' M' R' M' P N S' N P M
+L: mā - ka la i ya mu dam a tu lam -
+S: R P M R G M R S M R R S
+L: dē - hi mē - - bhō - - - - -
+S: S R R S N`P`̣ M`P`̣ R R R S
+L: swā - - - min - pā - la ya mām -
+S: R R P P M M R M R R S ,
+L: gu ru mū - - rthi nā - - ma kam -

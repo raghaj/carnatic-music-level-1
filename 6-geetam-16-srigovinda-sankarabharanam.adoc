@@ -1,0 +1,32 @@
+Layout: Gitam,FullWidth
+Tala: Matya
+SwaraPrefs: 28
+LyricPrefs: 28
+Heading: "Geetham - Sree Govinda" ,bold,center,26
+Heading: " " ,left,22
+Heading: " Ragam : Sankarābharanam 29th mela - Talam: Chathurasra Matyam" ,left,22
+Heading: "Arohanam: S R2 G3 M1 P D2 N3 S - Avarohanam : S N3 D2 P M1 G3 R3 S " ,left,22
+Heading: " " ,left,22 
+
+S: S' , S' N D N S' N D P
+L: shree - gō - vin - da - - -
+S: M G M P D P M G R S
+L: ha rē - - ma dhu sū - da na
+S: S S P , M G M R G ,
+L: va na ma - - - - - la -
+S: S S S' , S' S' D N , S
+L: ga ru da - dwa ja mu kun - da
+S: G' R' S' N /D N S' N D P
+L: shree - dha ra shree - ra ghu pa the
+S: S' , , , , , S' N D P
+L: san - - - - - kar - sha na
+S: M G M P , P M G R S
+L: sun - da rā - nga ja ya ja ya
+S: G' R' N S' , D N N P D
+L: shree - - rā - ma see - - thā
+S: D M P , P M G R G ,
+L: - bhi rā - - - - - ma -
+S: S R G M P , D N S' ,
+L: mā - - - - m pā - hi -
+S: G' R' S' N D P M G R S
+L: pa - ttā - - bhi rā - - ma

@@ -1,0 +1,42 @@
+Layout: Gitam,FullWidth
+Tala: Rupaka
+SwaraPrefs: 28
+LyricPrefs: 28
+Heading: " Kunta Gowra Composer - Purandaradasa" ,bold,center,26
+Heading: " " ,left,22
+Heading: " Ragam: Malahari Talam: Rupakam" ,left,22
+Heading: " Arohanam: S R1 M1 P D1 S Avarohanam: S D1 P M1 G3 R1 S" ,left,22
+
+Heading: " " ,left,22
+
+S: D P | M G R S || R M | P D M P ||
+L: Kun da Gou - - ra Gou - Ri - va ra 
+
+S: D R' | R' S' D P || D P | M G R S ||
+L: Man di - ra - ya ma - na ma ku ta 
+
+S: S - | R - R - || D P | M G R S ||
+L: Man - da - ra - ku su ma - ka ra 
+
+S: S R | M - G R || S R | G R S - ||
+L: Ma ka ran - dam - va - si thu va - 
+
+Heading: &quot;&quot;" ,bold,left,26
+Heading: "Charanam 2" ,bold,left,24
+Heading: "&quot;&quot; ,bold,left,26
+
+S: D P | M G R S || R M | P D M P ||
+L: He ma ku - - ta sim - ha - sa na
+
+S: D R | R S D P || D P | M G R S ||
+L: Vi ru pa ra - ksha ka ru na - ka ra 
+
+Heading: &quot;&quot;" ,bold,left,26
+Heading: "Charanam 3" ,bold,left,24
+Heading: "&quot;&quot; ,bold,left,26
+
+S: D P | M G R S || R M | P D M P ||
+L: Chan da ma - - ma man - da - gi ni 
+
+S: D R | R S D P || D P | M G R S ||
+L: Man - di ra - ya ma - na ma ku ta

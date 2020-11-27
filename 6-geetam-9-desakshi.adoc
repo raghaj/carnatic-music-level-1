@@ -1,0 +1,22 @@
+Layout: Gitam,FullWidth
+Tala: Triputa
+SwaraPrefs: 28
+LyricPrefs: 28
+Heading: " Bhaya Samana" ,bold,center,26
+Heading: " " ,left,22
+Heading: " Desakshi (28th melakartha )" Talam: Tisra Triputa Talam ,left,22
+Heading: " Arohanam: S R2 G3 P D 2 S Avarohanam: : S N2 D2 P M1 G3 R2 S" ,left,22
+Heading: " " ,left,22
+
+S: M' G' R' M' G' R' S' || S' N D S' , R' R'
+L: Bha ya sa ma ya de va vu - nni de - va sri
+S: M' G' R' S' N D P || D D P M G R G ||
+L: Ven - ka ta - cha la de - va na - lla re
+S: G P D P D P D S || S' N D S', S' , ||
+L: ke ra la ma ni da ni su va - re - re -
+S: M' G' R' M' G' R' S' || S' N D S' , R' R'
+L: sri - pu ran - da ra vi tha la ra - ya sri +
+S: M' G' R' S' N D P || D D P M G R G ||
+L: cha ra na ka ma la va no - di ba du gu ru
+S: G P D P D P D S || S' N D S', S' , ||
+L: ke ra la ma ni da ni su va - re - re -
