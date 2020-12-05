@@ -1,0 +1,36 @@
+Layout: Kriti,FullWidth
+Tala: Triputa
+PhraseEnds: Show,15
+DefaultSpeed: 0
+SwaraPrefs: 22
+LyricPrefs: 22
+
+Heading: " Lakshana Geetham - Abheri " ,bold,center,26
+Heading: " Rāgam :16 melakarta Chakravakam Ragam - Talam: Adi" ,left,22
+Heading: "ārohaṇa : S G₂ M₁ P N₂ Ṡ - avarohaṇa : Ṡ N₂ D₂ P M₁ G₂ R₂ S " ,left,22
+
+S: S G M P M P , M G M G , R S
+L: ga ru da ga ma na - sa - thya bhā - sha N`a   
+S: N` D P- N`S  G   ,   M    G  R-  S  , S ,
+L: vi bhee - sha N` apō - sha ku - re - re -
+S: S G ,- G M G R S S ,- N`D` P`M`
+L: cha thu - - sru thi ri sha bha sā dhā - ra na
+S: P`, N`- P`N` S N`S G   M-   G , R S   
+L: gā - ndhā -  -   ra  kai  - śi  ki   - -   swa ra  
+S:  N` D P`- N` N`S N` S , G- G , M P
+L: I tha ra śu - - ddha ā - - rō - - ha +
+S: N D P- M , G R P M P- M G R S
+L: ri dha va - - - rji ta a va rō - - ha
+S: G , M- P N S' , S' , S'- S' N D P
+L: sa - m pūr - na - sā - gra ha - nyā -
+S: N S' ,- N D P M P M P- M , G R
+L: sām - - - - śa tri pu ta - yu - - kta
+S: S G M P M- P N D , P- M G R S
+L: na ra bhai - - ra vi me - - ḷa ja ni ta 
+
+S: G G M- G , R S N`, D`- P`N` S N`
+L: ā - - bhē - - ri rā - - - - - ga
+S: S G M- P N S' S' N D P- M G R S +
+L: ma va dā - - ra ya śri - - rā - - ma
+S: G G M- G R S S
+L: na mō - na mō a re

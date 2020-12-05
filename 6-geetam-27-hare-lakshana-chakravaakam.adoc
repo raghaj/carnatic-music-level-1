@@ -1,0 +1,34 @@
+Layout: Kriti,FullWidth
+Tala: Triputa
+DefaultSpeed: 0
+SwaraPrefs: 22
+LyricPrefs: 22
+Heading: "Hare krishna - Lakshana Geetham - Chakravakam " ,bold,center,26
+Heading: " Rāgam :16 melakarta Chakravakam Ragam - Talam: Adi" ,left,22
+Heading: "ārohaṇa : S R₁ G₃ M₁ P D₂ N₂ Ṡ. avarohaṇa : Ṡ N₂ D₂ P M₁ G₃ R₁ S " ,left,22
+
+S: R R S N`S  R  S || N` D`N` P`D` N`S ||
+L: ha re - kri - - shna.  vaa - su de - - va
+S: G  R  G  M  G  R  S   N` R R S , S ,
+L: mu kun - da ma - - dha vu - re - re -
+S: N`D` N`S  R  S  R  G  ,  R  G  ,  M  G ||
+L: am - - - - - ta ra gam - dha - - ra 
+S: R  S  ,  N` D`N` S | R G , G M G ,
+L: cha tu - sru ti dhai - - va ta swa ra kai -
+S: M P M G R G M P M P M G M P ||
+L: si ki ni sha - - d e ta ra su - - ddha
+S: D N D D , N D N D P M P D N ||
+L: aa - - ro - - ha a va ro - - - ha
+S: S' , N S' , N D N S' N D P D N
+L: sam - - poo - - rna sam - gra haa - - nya
+
+S: S' N D P M P D N D P M G M P
+L: sa - - ma - - sa tri pu ta yu - - kta
+S: D N D P M P D P , M G M G
+L: mE - - La - - di ka - - - - ra
+S: R , S N`D` N`S   N` D`P` M`P` D`N`
+l: cha kra va - - ka ra. - - - - - - ga
+S: S R G M P D N S' N D P M G R ||
+L: ma va dha - - ra ya sr - - ra - - ma
+S: S R R S R S , S R R S R S ,
+L: na mo - na - mo - na mo - na - mo -
